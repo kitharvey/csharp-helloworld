@@ -1,0 +1,13 @@
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\bin\Debug\netcoreapp3.1\csharp-helloworld.exe
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\bin\Debug\netcoreapp3.1\csharp-helloworld.deps.json
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\bin\Debug\netcoreapp3.1\csharp-helloworld.runtimeconfig.json
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\bin\Debug\netcoreapp3.1\csharp-helloworld.runtimeconfig.dev.json
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\bin\Debug\netcoreapp3.1\csharp-helloworld.dll
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\bin\Debug\netcoreapp3.1\csharp-helloworld.pdb
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.csprojAssemblyReference.cache
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.csproj.CoreCompileInputs.cache
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.AssemblyInfoInputs.cache
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.AssemblyInfo.cs
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.dll
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.pdb
+C:\Users\HRV\Desktop\Programmes\MLH\csharp-helloworld\obj\Debug\netcoreapp3.1\csharp-helloworld.genruntimeconfig.cache

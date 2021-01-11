@@ -1,0 +1,13 @@
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.csprojAssemblyReference.cache
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.csproj.CoreCompileInputs.cache
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.AssemblyInfoInputs.cache
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.AssemblyInfo.cs
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\bin\Debug\netcoreapp3.1\java-helloworld.exe
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\bin\Debug\netcoreapp3.1\java-helloworld.deps.json
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\bin\Debug\netcoreapp3.1\java-helloworld.runtimeconfig.json
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\bin\Debug\netcoreapp3.1\java-helloworld.runtimeconfig.dev.json
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\bin\Debug\netcoreapp3.1\java-helloworld.dll
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\bin\Debug\netcoreapp3.1\java-helloworld.pdb
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.dll
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.pdb
+C:\Users\HRV\Desktop\Programmes\MLH\java-helloworld\obj\Debug\netcoreapp3.1\java-helloworld.genruntimeconfig.cache
